@@ -1,0 +1,12 @@
+/node_modules
+
+
+# IDE - VSCode
+.vscode/*
+.VSCodeCounter
+.VSCodeCounter/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
